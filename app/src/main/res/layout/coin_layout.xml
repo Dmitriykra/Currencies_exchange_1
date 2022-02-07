@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="4dp"
+    app:cardElevation="3dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idRLCurrency">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idSymbol"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="4dp"
+            android:padding="2dp"
+            android:text="@string/symbol"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/idName"
+            android:layout_marginStart="2dp"
+            android:layout_marginBottom="4dp"
+            android:padding="2dp"
+            android:text="@string/name"
+            android:layout_below="@+id/idSymbol"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/idPrice"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="2dp"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            android:padding="2dp"
+            android:text="@string/price" />
+
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

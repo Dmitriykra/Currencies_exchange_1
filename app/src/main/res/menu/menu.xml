@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sun"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        android:title="day"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <item
+        android:id="@+id/moon"
+        android:icon="@drawable/ic_baseline_nights_stay_24"
+        android:title="night"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>

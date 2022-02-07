@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Crypto Exchange</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="symbol">Symbol</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="buttonWeek">7 days</string>
+    <string name="buttonMonth">Months</string>
+
+    <string-array name="nameCoin">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Litecoin</item>
+        <item>Dogecoin</item>
+    </string-array>
+    <string-array name="symbolCoin">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>LTC</item>
+        <item>DOGE</item>
+    </string-array>
+    <string-array name="priceCoin">
+        <item>41518.78</item>
+        <item>3007.99</item>
+        <item>401.54</item>
+        <item>0.15</item>
+    </string-array>
+</resources>

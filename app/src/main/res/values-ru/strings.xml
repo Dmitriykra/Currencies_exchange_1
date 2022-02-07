@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Крипто Биржа</string>
+    <string name="price">Цена</string>
+    <string name="name">Имя</string>
+    <string name="symbol">Символ</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="buttonWeek">7 дней</string>
+    <string name="buttonMonth">Месяцы</string>
+    
+    <string-array name="nameCoin">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Litecoin</item>
+        <item>Dogecoin</item>
+    </string-array>
+    <string-array name="symbolCoin">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>LTC</item>
+        <item>DOGE</item>
+    </string-array>
+    <string-array name="priceCoin">
+        <item>41518.78</item>
+        <item>3007.99</item>
+        <item>401.54</item>
+        <item>0.15</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605304409609",
+    "project_id": "testtask-832bc",
+    "storage_bucket": "testtask-832bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605304409609:android:26528502224ff49c0b72d8",
+        "android_client_info": {
+          "package_name": "com.dimas.testtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605304409609-9a1lo7faobscscp2tmkjn6q10idneu7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzxWrlq4cFJHCbueXQkWBpkKhFVkHTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605304409609-9a1lo7faobscscp2tmkjn6q10idneu7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
